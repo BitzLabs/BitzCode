@@ -22,7 +22,7 @@ BitzCodeは、BitzLabsエコシステム内で、C#, JavaScript, Pythonなどの
 -   `BitzAstCore`
 -   `BitzParser`
 
-### **✅ 初期開発ToDoリスト**
+## **✅ 初期開発ToDoリスト**
 
 1.  **`ProcAST`の型定義**:
     *   `IProcNode` インターフェースを作成（`IAstNode`を継承）。
